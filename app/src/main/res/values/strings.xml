@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BluetoothDemo</string>
+    <string name="isSupportBlueTooth">支持蓝牙?</string>
+</resources>
